@@ -1,0 +1,19 @@
+site: http://lisn.igp.gob.pe/data/
+
+Date: 27/Jan/20
+Name: Sharon Aol
+email: sharonaol@ymail.com
+	
+Mbarara University of Science and Technology
+
+U: saol
+P: c13GEf3g
+
+Instruments: Ionosonde, GPS
+Networks: LISN, IGP
+Stations: all
+Data types: all
+Dates: all
+Account expiration: 28/Jan/21
+Hgvgvjvv
+
