@@ -49,7 +49,7 @@ void callback(char* topic, byte* payload, unsigned int length) {
 void setup() {
   Serial.begin(115200);
   client.setDebug(true); // Pass a true or false bool value to activate debug messages
-  client.wifiConnection(WIFINAME,NULL);
+  client.wifiConnection(WIFINAME,NULL);//----!!!! NULL cuando la red no tiene password
   client.begin(callback);
 
   pinMode(btn_excelente,INPUT);
